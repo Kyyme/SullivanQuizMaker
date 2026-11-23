@@ -1,4 +1,4 @@
-const quizData = [
+const dataData = [
     {
         id: 1,
         stem: "A patient has undergone surgery and subsequent immobilization to stabilize the olecranon process. The patient now exhibits an elbow flexion contracture. In this case, an absolute CONTRAINDICATION for joint mobilization would be:",
